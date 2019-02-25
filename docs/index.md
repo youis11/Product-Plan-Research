@@ -122,6 +122,10 @@ I have chosen 5 that are very important for the Project II.
 4. Re-evaluate the schedule regularly. You have to keep having conversations about your schedule and your budget. "It's always tempting to keep working, and fix all those bugs,", "but it'll keep everyone much more sane if you keep evaluating your schedule and budget."
 5. Maintain a stable build. "The longer we go without addressing bugs, the harder they are to find, and the more entangled they become,". Vertical slice sprints can help with that, making sure your build is stable all the time.
 
+### SUMMARY
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a7vZFiFLw-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### SOURCES
 
 [Agile Project Management Software](https://www.softwareadvice.com/project-management/agile-comparison/?deployment_id=&market_products_sort_order=&market_products_sortby=great_fit&more=true&price_ranges=1&stars=&segment_id=&platforms=&int_site_code=&size_id)
