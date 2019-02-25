@@ -12,6 +12,8 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 - Software like Smartsheet and Jira can help to design the agile methodology.
 
+[https://www.mindjet.com/blog/wp-content/uploads/sites/6/2012/10/How-Social-Task-Management-Helps-Conquer-the-Big-32.jpg](task-time.jpg)
+
 ### WHY IS IMPORTANT?
 
 - What is the importance of this document?
@@ -20,6 +22,8 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
   - Manteining the Project is difficult, a lot of Products stay halfway.
   - Assuring a minimum of copies of the Product are going to sell it is difficult.
   - So a lot of research is needed to create it, so the price can be $10,000 per plan.
+ 
+[https://motto.za.net/wp-content/uploads/2018/12/5-Positive-Conflict-tips-You-Can-Learn-From-High-Performance-Teams.jpg](dream team.jpg)
 
 ### WHAT IT CONTAINS?
 
@@ -31,11 +35,15 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 - +Executive Summary
 
+[https://motto.za.net/wp-content/uploads/2018/12/5-Positive-Conflict-tips-You-Can-Learn-From-High-Performance-Teams.jpg](calendar.jpg)
+
 ### GENERAL CALENDAR OF WORK
 
 - Include every sprint and milestones for each version.
 - Keep in mind the main features of the deliveries.
 - Who do you need to accomplish the task? Estimation time?
+
+[https://image.slidesharecdn.com/3933db9a-1a93-4e5b-ad2b-d07898cb0689-160602151318/95/qlikview-projects-in-agile-environment-8-638.jpg?cb=1464880617](calendar sprint.jpg)
 
 ### RISK AND CONTINGENCY LIST
 
@@ -49,15 +57,19 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 - A good way to minimize the threats is to break key tasks down to a greater level of detail to give better control.
 
+[https://expertprogrammanagement.com/wp-content/uploads/2017/09/Contingency-plan-Risk-Management.png](Probability-Impact.png)
+
 ### OVERALL GANTT CHART
 
 - Gantt charts are a great way to…
   - improve productivity by making a project seem less daunting 
   - allowing for better timekeeping by pre-designating said time, 
   - allowing you to focus simply on doing what needs to be done.
-  
+
+[http://4.bp.blogspot.com/-slwxmU0swX8/UarEGiNyA0I/AAAAAAAAA0I/X2wSxKj5T0M/s400/Gantt_Updated.png](Gantt.png)
+
 Here is a [template of a Gantt Char](https://creately.com/diagram/example/i2wxn2pc1/Game%20Development%20Project) for your project.
-  
+
 ### AVERAGE ESTIMATION DEVIATION
 
 - It isn’t a fixed calendar, adjust to reality. Even if you try to follow the calendar, something will happend that will require a change of it.
