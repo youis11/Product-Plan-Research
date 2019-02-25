@@ -68,7 +68,7 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 ![http://4.bp.blogspot.com/-slwxmU0swX8/UarEGiNyA0I/AAAAAAAAA0I/X2wSxKj5T0M/s400/Gantt_Updated.png](Gantt.png)
 
-Here is a [template of a Gantt Char](https://drive.google.com/file/d/1wtyC7lmE8WZiY2iw_7ylI-xRl-LLg1Q5/view?usp=sharing) for your project. 
+Here is a [template of a Gantt Char](https://drive.google.com/file/d/1MDdNYP_6SLKTkJ8PrbzgdFtpJOpDzjRP/view?usp=sharing) for your project. 
 
 #### Exercice
 To start with this type of chart, you can organize the preproducing phase with this Gantt Chart.
